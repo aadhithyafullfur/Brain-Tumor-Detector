@@ -1,0 +1,19 @@
+{
+  "name": "brain-tumor-app",
+  "version": "1.0.0",
+  "description": "Brain tumor detector that will be helpfull for doctors to classify and visualize the tumor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhithyafullfur/Brain-Tumor-detector.git"
+  },
+  "author": "Aadhithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhithyafullfur/Brain-Tumor-detector/issues"
+  },
+  "homepage": "https://github.com/aadhithyafullfur/Brain-Tumor-detector#readme"
+}
